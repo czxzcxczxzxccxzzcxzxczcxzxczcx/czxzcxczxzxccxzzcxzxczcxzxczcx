@@ -1,7 +1,8 @@
 Hello! Welcome to my Github, I am a Web Developer who actively works on full stack projects. 
-My current two projects are The New World, and The Free market, which are a social media and a e commerence platform.
+I am currently working on a social media platform similar to Twitter called "The New World"
+And I am working on an e commerence website similar to amazon called "The Free Market"
 
-https://github.com/czxzcxczxzxccxzzcxzxczcxzxczcx/TheNewWorld
+https://github.com/czxzcxczxzxccxzzcxzxczcxzxczcx/TheNewWorld  
 https://github.com/czxzcxczxzxccxzzcxzxczcxzxczcx/TheFreeMarket
 
 I have experience with C++, JavaScript, Java, Python, x86 Assembly, and TypeScript
